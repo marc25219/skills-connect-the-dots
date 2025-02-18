@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Connect the dots in a GitHub repository
+# CConnect the dots in a GitHub repository
 
 _Useful tips when navigating through your repository._
 
